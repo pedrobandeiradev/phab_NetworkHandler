@@ -1,0 +1,6 @@
+framework module Pods_PHAB_FrameworkTests {
+  umbrella header "Pods-PHAB_FrameworkTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
